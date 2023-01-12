@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccess", "DataAccess\Da
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GuiClient", "GuiClient\GuiClient.csproj", "{8AAE0EBA-B981-40EF-9909-ED690FF5DAC6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarGui", "CarGui\CarGui.csproj", "{72B150C3-7B29-4784-991D-F2DD98119570}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{8AAE0EBA-B981-40EF-9909-ED690FF5DAC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AAE0EBA-B981-40EF-9909-ED690FF5DAC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AAE0EBA-B981-40EF-9909-ED690FF5DAC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72B150C3-7B29-4784-991D-F2DD98119570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72B150C3-7B29-4784-991D-F2DD98119570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72B150C3-7B29-4784-991D-F2DD98119570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72B150C3-7B29-4784-991D-F2DD98119570}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
